@@ -21,6 +21,7 @@ class CardGame:
     # below should be double equals. 
     if card.value = 1:
       return True
+    # no colon below
     else
       return False
    
